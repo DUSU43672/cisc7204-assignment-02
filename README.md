@@ -1,6 +1,6 @@
 # CISC7204 Assignment 02 — Data Preprocessing & Visualization Labs
 
-**Author:** Sun Yuanjiao (MC653434), University of Macau
+**Author:** Sun Yuanjiao (MC65343), University of Macau
 **Course:** CISC7204 — Assignment 02
 
 This repository collects the completed lab notebooks and supporting data files for
